@@ -30,5 +30,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "uuidv4": "^6.0.7"
-  }
+  },
+  "repository": "https://github.com/freeitas/fundamentals-nodejs.git",
+  "author": "Guilherme Freitas <hfdsguilherme@gmail.com>"
 }
